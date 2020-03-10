@@ -1,0 +1,90 @@
+.grid-container-header {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #b6b6b6;
+    padding: 10px;
+    height: 100px;
+    margin-left: none;
+    margin-right: none;
+  }
+
+  .logo-lifetime {
+    padding: 10px;
+    display: flow-root;
+    width: 210px;
+    margin-top: 5px;
+  }
+
+  .grid-container-header2 {
+    background-color: #1d1d1d;
+    color: white;
+    padding: 10px;
+    height: 60px;
+  }
+
+  .set-bar {
+    display: grid;
+    grid-template-columns: 20% auto auto auto auto auto auto 20%;
+    margin-bottom: 20px;
+  }
+
+  .set-bar a {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+    margin-top: 5px;
+    color: white;
+  }
+
+  .consultar-salvar {
+    display: grid;
+    grid-template-columns: 37% auto auto 37%;
+    margin-top: 20px;
+  }
+
+  #cmbElegivel.form-control {
+    color: black;
+    background-color: #686868;
+    border-color: #545b62;
+    width: 130px;
+  }
+
+  .btn-consult {
+    width: 100px;
+    background-color: #686868;
+    border-color: #545b62;
+    color: black;
+  }
+  .btn-salvar{
+    width: 100px;
+    background-color: #686868;
+    border-color: #545b62;
+    color: black;
+  }
+
+  .textTable {
+    color: white;
+  }
+
+  .grid-datatabe {
+    margin-top: 30px;
+  }
+
+  .imgHeader {
+    height: 100px;
+  }
+
+  #adicionar-btn {
+  	pointer-events: none;
+    opacity: 0.4;
+  }
+
+  #deletar-btn {
+    pointer-events: none;
+    opacity: 0.4;
+}
+  
+  #alteditor-row-codCliente, #alteditor-row-nome, #alteditor-row-equipe, #alteditor-row-perfilxp, #alteditor-row-fomento, 
+  #alteditor-row-opEnv, #alteditor-row-perRec, #alteditor-row-ordExe {
+    display: none;
+  } 
