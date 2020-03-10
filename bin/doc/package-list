@@ -1,0 +1,10 @@
+com.example.demo
+com.example.demo.config
+com.example.demo.domain
+com.example.demo.exceptions
+com.example.demo.repositories
+com.example.demo.resources
+com.example.demo.resources.exception
+com.example.demo.security
+com.example.demo.services
+com.example.demo.services.exception

@@ -1,0 +1,11 @@
+br.com.lifetime
+br.com.lifetime.DTO
+br.com.lifetime.config
+br.com.lifetime.domain
+br.com.lifetime.exceptions
+br.com.lifetime.repositories
+br.com.lifetime.resources
+br.com.lifetime.resources.exception
+br.com.lifetime.security
+br.com.lifetime.services
+br.com.lifetime.services.exception
