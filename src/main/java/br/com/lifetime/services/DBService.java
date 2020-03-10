@@ -114,9 +114,5 @@ public class DBService {
 		controleCampanhaRepository.saveAll(Arrays.asList(cca1, cca2, cca3));
 		subCampanhaRepository.saveAll(Arrays.asList(sub1, sub2, sub3));
 		estrategiaRepository.saveAll(Arrays.asList(est1, est2, est3, est4));
-
-		
-//		boolean login = SugarConnection.SugarLogin("samuel.conceicao", "SC@lftm2019");
-//		System.out.println(login);
 	}
 }
